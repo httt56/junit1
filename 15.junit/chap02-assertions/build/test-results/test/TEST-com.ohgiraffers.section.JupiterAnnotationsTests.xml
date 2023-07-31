@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ohgiraffers.section.JupiterAnnotationsTests" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-07-31T07:01:40" hostname="KIM" time="0.045">
+  <properties/>
+  <testcase name="더하기 기능 테스트" classname="com.ohgiraffers.section.JupiterAnnotationsTests" time="0.017"/>
+  <testcase name="예상 목록이 실제 목록과 일치하는지 확인" classname="com.ohgiraffers.section.JupiterAnnotationsTests" time="0.002"/>
+  <testcase name="void 메소드의 경우 exception 발생이 없이 정상적으로 동작하는지 테스트" classname="com.ohgiraffers.section.JupiterAnnotationsTests" time="0.002"/>
+  <testcase name="두 값이 다른지 확인" classname="com.ohgiraffers.section.JupiterAnnotationsTests" time="0.002"/>
+  <testcase name="인스턴스 타입의 대한 검증을 수행하는 경우" classname="com.ohgiraffers.section.JupiterAnnotationsTests" time="0.003"/>
+  <testcase name="void 메소드의 경우 exception이 발생하는지 테스트" classname="com.ohgiraffers.section.JupiterAnnotationsTests" time="0.003"/>
+  <testcase name="null 아닌지 테스트" classname="com.ohgiraffers.section.JupiterAnnotationsTests" time="0.003"/>
+  <testcase name="null 인지 테스트" classname="com.ohgiraffers.section.JupiterAnnotationsTests" time="0.001"/>
+  <testcase name="두 값이 같은지 확인" classname="com.ohgiraffers.section.JupiterAnnotationsTests" time="0.001"/>
+  <testcase name="인스턴스 동일성 비교 테스트" classname="com.ohgiraffers.section.JupiterAnnotationsTests" time="0.001"/>
+  <testcase name="동시에 여러가지 값에 대한 검증을 수행하는 경우 테스트" classname="com.ohgiraffers.section.JupiterAnnotationsTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="section03.additional.AdditionalAnnotationTests" tests="19" skipped="1" failures="0" errors="0" timestamp="2023-07-31T07:24:10" hostname="KIM" time="0.964">
+  <properties/>
+  <testcase name="testFirst()" classname="section03.additional.AdditionalAnnotationTests" time="0.012"/>
+  <testcase name="testSecond()" classname="section03.additional.AdditionalAnnotationTests" time="0.001"/>
+  <testcase name="testThird()" classname="section03.additional.AdditionalAnnotationTests" time="0.001"/>
+  <testcase name="testTages()" classname="section03.additional.AdditionalAnnotationTests" time="0.003"/>
+  <testcase name="testTag1()" classname="section03.additional.AdditionalAnnotationTests" time="0.001"/>
+  <testcase name="testTag2()" classname="section03.additional.AdditionalAnnotationTests" time="0.0"/>
+  <testcase name="testTag3()" classname="section03.additional.AdditionalAnnotationTests" time="0.0"/>
+  <testcase name="testIgnore()" classname="section03.additional.AdditionalAnnotationTests" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="repetition 1 of 10" classname="section03.additional.AdditionalAnnotationTests" time="0.004"/>
+  <testcase name="repetition 2 of 10" classname="section03.additional.AdditionalAnnotationTests" time="0.001"/>
+  <testcase name="repetition 3 of 10" classname="section03.additional.AdditionalAnnotationTests" time="0.0"/>
+  <testcase name="repetition 4 of 10" classname="section03.additional.AdditionalAnnotationTests" time="0.0"/>
+  <testcase name="repetition 5 of 10" classname="section03.additional.AdditionalAnnotationTests" time="0.0"/>
+  <testcase name="repetition 6 of 10" classname="section03.additional.AdditionalAnnotationTests" time="0.001"/>
+  <testcase name="repetition 7 of 10" classname="section03.additional.AdditionalAnnotationTests" time="0.001"/>
+  <testcase name="repetition 8 of 10" classname="section03.additional.AdditionalAnnotationTests" time="0.001"/>
+  <testcase name="repetition 9 of 10" classname="section03.additional.AdditionalAnnotationTests" time="0.0"/>
+  <testcase name="repetition 10 of 10" classname="section03.additional.AdditionalAnnotationTests" time="0.0"/>
+  <testcase name="testTimout()" classname="section03.additional.AdditionalAnnotationTests" time="0.911"/>
+  <system-out><![CDATA[test Tags
+development Tag : testTag1
+production Tag : testTag2
+production Tag : testTag2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
